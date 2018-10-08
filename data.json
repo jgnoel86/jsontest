@@ -1,4 +1,7 @@
 {
+    "configData":{
+        "contactEmail":"test@gmail.com"
+    },
     "medicalPlans":[
         {
             "planName":"Silver",
