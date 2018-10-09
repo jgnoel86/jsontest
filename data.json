@@ -26,24 +26,24 @@
         "planName":"DentalPlan",
         "planInfoUrl":"https://www.google.com",
         "employeeCost":10.0,
-        "employeeAndSpouseCost":15.73,
-        "employeeAndChildrenCost":18.93,
+        "employeeSpouseCost":15.73,
+        "employeeChildrenCost":18.93,
         "wholeFamilyCost":22.16
     },
     "visionPlan":{
         "planName":"VisionPlan",
         "planInfoUrl":"https://www.google.com",
         "employeeCost":10.0,
-        "employeeAndSpouseCost":15.73,
-        "employeeAndChildrenCost":18.93,
+        "employeeSpouseCost":15.73,
+        "employeeChildrenCost":18.93,
         "wholeFamilyCost":22.16
     },
     "accidentPlan":{
         "planName":"AccidentPlan",
         "planInfoUrl":"https://www.google.com",
         "employeeCost":10.0,
-        "employeeAndSpouseCost":15.73,
-        "employeeAndChildrenCost":18.93,
+        "employeeSpouseCost":15.73,
+        "employeeChildrenCost":18.93,
         "wholeFamilyCost":22.16
     },
     "lifeInsurancePlan":{
