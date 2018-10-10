@@ -49,17 +49,125 @@
     "lifeInsurancePlan":{
         "planName":"LifeInsurance",
         "planInfoUrl":"https://www.google.com",
+        "coverageMin":10000,
         "coverageMax":300000,
         "coverageIncrement":5000,
+        "maxAmountBeforeReview":50000,
         "earningsBasedCoverageMultiplier":6.0,
         "ageCostBands":[
             {
-                "ageLimit":75,
-                "cost":0.57
+                "ageLimit":29,
+                "cost":0.149
             },
             {
-                "ageLimit":90,
-                "cost":1.10
+                "ageLimit":34,
+                "cost":0.152
+            },
+            {
+                "ageLimit":39,
+                "cost":0.167
+            },
+            {
+                "ageLimit":44,
+                "cost":0.225
+            },
+            {
+                "ageLimit":49,
+                "cost":0.302
+            },
+            {
+                "ageLimit":54,
+                "cost":0.479
+            },
+            {
+                "ageLimit":59,
+                "cost":0.753
+            },
+            {
+                "ageLimit":64,
+                "cost":1.005
+            },
+            {
+                "ageLimit":69,
+                "cost":1.751
+            },
+            {
+                "ageLimit":74,
+                "cost":3.759
+            },
+            {
+                "ageLimit":10000,
+                "cost":14.114
+            }
+        ]
+    },
+    "spouseLifeInsurancePlan":{
+        "planName":"LifeInsurance",
+        "planInfoUrl":"https://www.google.com",
+        "coverageMin":5000,
+        "coverageMax":150000,
+        "coverageIncrement":5000,
+        "maxAmountBeforeReview":10000,
+        "earningsBasedCoverageMultiplier":1.0,
+        "ageCostBands":[
+            {
+                "ageLimit":29,
+                "cost":0.115
+            },
+            {
+                "ageLimit":34,
+                "cost":0.116
+            },
+            {
+                "ageLimit":39,
+                "cost":0.123
+            },
+            {
+                "ageLimit":44,
+                "cost":0.162
+            },
+            {
+                "ageLimit":49,
+                "cost":0.209
+            },
+            {
+                "ageLimit":54,
+                "cost":0.328
+            },
+            {
+                "ageLimit":59,
+                "cost":0.521
+            },
+            {
+                "ageLimit":64,
+                "cost":0.783
+            },
+            {
+                "ageLimit":69,
+                "cost":1.355
+            },
+            {
+                "ageLimit":74,
+                "cost":2.895
+            },
+            {
+                "ageLimit":10000,
+                "cost":10.838
+            }
+        ]
+    },
+    "dependantLifeInsurancePlan":{
+        "planName":"LifeInsurance",
+        "planInfoUrl":"https://www.google.com",
+        "coverageMin":2000,
+        "coverageMax":10000,
+        "coverageIncrement":2000,
+        "maxAmountBeforeReview":10000,
+        "earningsBasedCoverageMultiplier":1.0,
+        "ageCostBands":[
+            {
+                "ageLimit":100000,
+                "cost":0.245
             }
         ]
     },
