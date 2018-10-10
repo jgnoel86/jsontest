@@ -24,7 +24,7 @@
     ],
     "dentalPlan":{
         "planName":"DentalPlan",
-        "planInfoUrl":"https://www.google.com",
+        "planInfoUrl":"",
         "employeeCost":10.0,
         "employeeSpouseCost":15.73,
         "employeeChildrenCost":18.93,
