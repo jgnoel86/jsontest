@@ -67,7 +67,7 @@
         "planName":"Disability",
         "planInfoUrl":"https://www.google.com",
         "planMaximum":2700.0,
-        "salaryPercent":6.0,
+        "salaryPercent":0.6,
         "ageCostBands":[
             {
                 "ageLimit":29,
