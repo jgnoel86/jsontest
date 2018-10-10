@@ -70,12 +70,36 @@
         "salaryPercent":6.0,
         "ageCostBands":[
             {
-                "ageLimit":75,
-                "cost":0.57
+                "ageLimit":30,
+                "cost":0.347
             },
             {
-                "ageLimit":90,
-                "cost":1.10
+                "ageLimit":34,
+                "cost":0.384
+            },
+            {
+                "ageLimit":39,
+                "cost":0.331
+            },
+            {
+                "ageLimit":44,
+                "cost":0.334
+            },
+            {
+                "ageLimit":49,
+                "cost":0.415
+            },
+            {
+                "ageLimit":54,
+                "cost":0.496
+            },
+            {
+                "ageLimit":59,
+                "cost":0.693
+            },
+            {
+                "ageLimit":10000,
+                "cost":0.840
             }
         ]
     }
