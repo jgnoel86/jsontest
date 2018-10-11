@@ -5,21 +5,30 @@
     "medicalPlanInfoUrl":"",
     "medicalPlans":[
         {
-            "planName":"Silver",
+            "planName":"Silver HSA 3500",
             "planInfoUrl":"https://www.google.com",
-            "employeeCost":123.12,
-            "dependantCost":234.23,
-            "youngDependantCost":345.34,
-            "reducedCostAgeLimit":20,
+            "employeeCost":0,
+            "dependantCost":467.75,
+            "youngDependantCost":210.77,
+            "reducedCostAgeLimit":21,
             "youngDependantLimit":3
         },
         {
-            "planName":"Gold",
+            "planName":"Gold PPO 2000",
             "planInfoUrl":"https://www.google.com",
-            "employeeCost":123.12,
-            "dependantCost":234.23,
-            "youngDependantCost":345.34,
-            "reducedCostAgeLimit":20,
+            "employeeCost":0,
+            "dependantCost":595.85,
+            "youngDependantCost":268.50,
+            "reducedCostAgeLimit":21,
+            "youngDependantLimit":3
+        },
+        {
+            "planName":"Platinum PPO 500",
+            "planInfoUrl":"https://www.google.com",
+            "employeeCost":159.94,
+            "dependantCost":755.79,
+            "youngDependantCost":340.57,
+            "reducedCostAgeLimit":21,
             "youngDependantLimit":3
         }
     ],
