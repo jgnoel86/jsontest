@@ -2,6 +2,7 @@
     "configData":{
         "contactEmail":"test@gmail.com"
     },
+    "medicalPlanInfoUrl":"",
     "medicalPlans":[
         {
             "planName":"Silver",
